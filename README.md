@@ -35,4 +35,4 @@ Main Repository of Blockchain and Decentralized Systems Course for Master in Com
 * The Blockchain Developer [[Apress]](https://www.apress.com/9781484248461)
 
 ## License
- [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+ [![License: CCBY-4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
